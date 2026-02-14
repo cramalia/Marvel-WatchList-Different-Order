@@ -1,0 +1,192 @@
+[
+  { "title": "Captain America: The First Avenger", "type": "MOVIE", "universe": "MCU", "releaseDate": "2011-07-22", "chronologyIndex": 1, "adminOrderIndex": 1 },
+  { "title": "Agent Carter (short)", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2013-09-24", "chronologyIndex": 2, "adminOrderIndex": null },
+  { "title": "Agent Carter Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2015-01-06", "chronologyIndex": 3, "adminOrderIndex": null },
+  { "title": "Agent Carter Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2016-01-19", "chronologyIndex": 4, "adminOrderIndex": null },
+
+  { "title": "Captain Marvel", "type": "MOVIE", "universe": "MCU", "releaseDate": "2019-03-08", "chronologyIndex": 5, "adminOrderIndex": 2 },
+  { "title": "Iron Man", "type": "MOVIE", "universe": "MCU", "releaseDate": "2008-05-02", "chronologyIndex": 6, "adminOrderIndex": 3 },
+  { "title": "Iron Man 2", "type": "MOVIE", "universe": "MCU", "releaseDate": "2010-05-07", "chronologyIndex": 7, "adminOrderIndex": 4 },
+  { "title": "The Incredible Hulk", "type": "MOVIE", "universe": "MCU", "releaseDate": "2008-06-13", "chronologyIndex": 8, "adminOrderIndex": 5 },
+
+  { "title": "A Funny Thing Happened on the Way to Thor's Hammer", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2011-10-25", "chronologyIndex": 9, "adminOrderIndex": null },
+  { "title": "Thor", "type": "MOVIE", "universe": "MCU", "releaseDate": "2011-05-06", "chronologyIndex": 10, "adminOrderIndex": 6 },
+  { "title": "The Consultant", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2011-09-13", "chronologyIndex": 11, "adminOrderIndex": null },
+
+  { "title": "The Avengers", "type": "MOVIE", "universe": "MCU", "releaseDate": "2012-05-04", "chronologyIndex": 12, "adminOrderIndex": 7 },
+  { "title": "Item 47", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2012-09-25", "chronologyIndex": 13, "adminOrderIndex": null },
+
+  { "title": "Agents of S.H.I.E.L.D. Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2013-09-24", "chronologyIndex": 14, "adminOrderIndex": null },
+  { "title": "Thor: The Dark World", "type": "MOVIE", "universe": "MCU", "releaseDate": "2013-11-08", "chronologyIndex": 15, "adminOrderIndex": 8 },
+
+  { "title": "Iron Man 3", "type": "MOVIE", "universe": "MCU", "releaseDate": "2013-05-03", "chronologyIndex": 16, "adminOrderIndex": 9 },
+  { "title": "All Hail the King", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2014-02-04", "chronologyIndex": 17, "adminOrderIndex": null },
+
+  { "title": "Captain America: The Winter Soldier", "type": "MOVIE", "universe": "MCU", "releaseDate": "2014-04-04", "chronologyIndex": 18, "adminOrderIndex": 10 },
+
+  { "title": "Guardians of the Galaxy", "type": "MOVIE", "universe": "MCU", "releaseDate": "2014-08-01", "chronologyIndex": 19, "adminOrderIndex": 11 },
+  { "title": "I Am Groot Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2022-08-10", "chronologyIndex": 20, "adminOrderIndex": 12 },
+
+  { "title": "Guardians of the Galaxy Vol. 2", "type": "MOVIE", "universe": "MCU", "releaseDate": "2017-05-05", "chronologyIndex": 21, "adminOrderIndex": 13 },
+  { "title": "I Am Groot Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2023-09-06", "chronologyIndex": 22, "adminOrderIndex": 14 },
+
+  { "title": "Daredevil Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2015-04-10", "chronologyIndex": 23, "adminOrderIndex": 15 },
+  { "title": "Jessica Jones Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2015-11-20", "chronologyIndex": 24, "adminOrderIndex": null },
+
+  { "title": "Avengers: Age of Ultron", "type": "MOVIE", "universe": "MCU", "releaseDate": "2015-05-01", "chronologyIndex": 25, "adminOrderIndex": 16 },
+
+  { "title": "WHiH Newsfront Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2015-07-02", "chronologyIndex": 26, "adminOrderIndex": null },
+  { "title": "Ant-Man", "type": "MOVIE", "universe": "MCU", "releaseDate": "2015-07-17", "chronologyIndex": 27, "adminOrderIndex": 17 },
+
+  { "title": "Daredevil Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2016-03-18", "chronologyIndex": 28, "adminOrderIndex": null },
+  { "title": "Luke Cage Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2016-09-30", "chronologyIndex": 29, "adminOrderIndex": null },
+
+  { "title": "Iron Fist Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2017-03-17", "chronologyIndex": 30, "adminOrderIndex": null },
+
+  { "title": "WHiH Newsfront Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2016-04-25", "chronologyIndex": 31, "adminOrderIndex": null },
+  { "title": "The Defenders Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2017-08-18", "chronologyIndex": 32, "adminOrderIndex": null },
+
+  { "title": "Captain America: Civil War", "type": "MOVIE", "universe": "MCU", "releaseDate": "2016-05-06", "chronologyIndex": 33, "adminOrderIndex": 18 },
+  { "title": "Black Widow", "type": "MOVIE", "universe": "MCU", "releaseDate": "2021-07-09", "chronologyIndex": 34, "adminOrderIndex": 19 },
+
+  { "title": "Black Panther", "type": "MOVIE", "universe": "MCU", "releaseDate": "2018-02-16", "chronologyIndex": 35, "adminOrderIndex": 21 },
+  { "title": "Eyes of Wakanda Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2025-08-01", "chronologyIndex": 36, "adminOrderIndex": 44 },
+
+  { "title": "Inhumans Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2017-09-29", "chronologyIndex": 37, "adminOrderIndex": null },
+  { "title": "Spider-Man: Homecoming", "type": "MOVIE", "universe": "MCU", "releaseDate": "2017-07-07", "chronologyIndex": 38, "adminOrderIndex": 22 },
+
+  { "title": "The Punisher Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2017-11-17", "chronologyIndex": 39, "adminOrderIndex": null },
+
+  { "title": "Doctor Strange", "type": "MOVIE", "universe": "MCU", "releaseDate": "2016-11-04", "chronologyIndex": 40, "adminOrderIndex": 20 },
+
+  { "title": "Cloak & Dagger Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2018-06-07", "chronologyIndex": 41, "adminOrderIndex": null },
+
+  { "title": "Agents of S.H.I.E.L.D. Season 4", "type": "SERIES", "universe": "MCU", "releaseDate": "2016-09-20", "chronologyIndex": 42, "adminOrderIndex": null },
+  { "title": "Agents of S.H.I.E.L.D.: Slingshot Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2016-12-13", "chronologyIndex": 43, "adminOrderIndex": null },
+
+  { "title": "Jessica Jones Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2018-03-08", "chronologyIndex": 44, "adminOrderIndex": null },
+
+  { "title": "Agents of S.H.I.E.L.D. Season 5", "type": "SERIES", "universe": "MCU", "releaseDate": "2017-12-01", "chronologyIndex": 45, "adminOrderIndex": null },
+
+  { "title": "Luke Cage Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2018-06-22", "chronologyIndex": 46, "adminOrderIndex": null },
+  { "title": "Iron Fist Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2018-09-07", "chronologyIndex": 47, "adminOrderIndex": null },
+  { "title": "Daredevil Season 3", "type": "SERIES", "universe": "MCU", "releaseDate": "2018-10-19", "chronologyIndex": 48, "adminOrderIndex": null },
+
+  { "title": "Cloak & Dagger Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2019-04-04", "chronologyIndex": 49, "adminOrderIndex": null },
+
+  { "title": "Thor: Ragnarok", "type": "MOVIE", "universe": "MCU", "releaseDate": "2017-11-03", "chronologyIndex": 50, "adminOrderIndex": 25 },
+
+  { "title": "Runaways Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2017-11-21", "chronologyIndex": 51, "adminOrderIndex": null },
+  { "title": "Runaways Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2018-12-21", "chronologyIndex": 52, "adminOrderIndex": null },
+  { "title": "Runaways Season 3", "type": "SERIES", "universe": "MCU", "releaseDate": "2019-12-13", "chronologyIndex": 53, "adminOrderIndex": null },
+
+  { "title": "The Punisher Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2019-01-18", "chronologyIndex": 54, "adminOrderIndex": null },
+  { "title": "Jessica Jones Season 3", "type": "SERIES", "universe": "MCU", "releaseDate": "2019-06-14", "chronologyIndex": 55, "adminOrderIndex": null },
+
+  { "title": "Ant-Man and the Wasp", "type": "MOVIE", "universe": "MCU", "releaseDate": "2018-07-06", "chronologyIndex": 56, "adminOrderIndex": 26 },
+
+  { "title": "Avengers: Infinity War", "type": "MOVIE", "universe": "MCU", "releaseDate": "2018-04-27", "chronologyIndex": 57, "adminOrderIndex": 27 },
+
+  { "title": "Agents of S.H.I.E.L.D. Season 6", "type": "SERIES", "universe": "MCU", "releaseDate": "2019-05-10", "chronologyIndex": 58, "adminOrderIndex": null },
+  { "title": "Agents of S.H.I.E.L.D. Season 7", "type": "SERIES", "universe": "MCU", "releaseDate": "2020-05-27", "chronologyIndex": 59, "adminOrderIndex": null },
+
+  { "title": "Helstrom Season 1", "type": "SERIES", "universe": "OTHER", "releaseDate": "2020-10-16", "chronologyIndex": 60, "adminOrderIndex": null },
+
+  { "title": "Avengers: Endgame", "type": "MOVIE", "universe": "MCU", "releaseDate": "2019-04-26", "chronologyIndex": 61, "adminOrderIndex": 28 },
+
+  { "title": "Loki Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2021-06-09", "chronologyIndex": 62, "adminOrderIndex": 29 },
+  { "title": "What If...? Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2021-08-11", "chronologyIndex": 63, "adminOrderIndex": 31 },
+
+  { "title": "WandaVision Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2021-01-15", "chronologyIndex": 64, "adminOrderIndex": 34 },
+
+  { "title": "Shang-Chi and the Legend of the Ten Rings", "type": "MOVIE", "universe": "MCU", "releaseDate": "2021-09-03", "chronologyIndex": 65, "adminOrderIndex": 36 },
+
+  { "title": "The Falcon and the Winter Soldier Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2021-03-19", "chronologyIndex": 66, "adminOrderIndex": 37 },
+
+  { "title": "Peter’s To-Do List", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2019-09-17", "chronologyIndex": 67, "adminOrderIndex": null },
+
+  { "title": "Spider-Man: Far From Home", "type": "MOVIE", "universe": "MCU", "releaseDate": "2019-07-02", "chronologyIndex": 68, "adminOrderIndex": 39 },
+
+  { "title": "The Daily Bugle Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2019-07-03", "chronologyIndex": 69, "adminOrderIndex": null },
+  { "title": "The Daily Bugle Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2021-11-24", "chronologyIndex": 70, "adminOrderIndex": null },
+
+  { "title": "She-Hulk: Attorney at Law Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2022-08-18", "chronologyIndex": 71, "adminOrderIndex": null },
+
+  { "title": "Eternals", "type": "MOVIE", "universe": "MCU", "releaseDate": "2021-11-05", "chronologyIndex": 72, "adminOrderIndex": 38 },
+
+  { "title": "Spider-Man: No Way Home", "type": "MOVIE", "universe": "MCU", "releaseDate": "2021-12-17", "chronologyIndex": 73, "adminOrderIndex": 40 },
+
+  { "title": "Doctor Strange in the Multiverse of Madness", "type": "MOVIE", "universe": "MCU", "releaseDate": "2022-05-06", "chronologyIndex": 74, "adminOrderIndex": 41 },
+
+  { "title": "Hawkeye Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2021-11-24", "chronologyIndex": 75, "adminOrderIndex": 42 },
+
+  { "title": "Moon Knight Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2022-03-30", "chronologyIndex": 76, "adminOrderIndex": 43 },
+
+  { "title": "Black Panther: Wakanda Forever", "type": "MOVIE", "universe": "MCU", "releaseDate": "2022-11-11", "chronologyIndex": 77, "adminOrderIndex": 45 },
+
+  { "title": "Echo Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2024-01-09", "chronologyIndex": 78, "adminOrderIndex": null },
+
+  { "title": "Ms. Marvel Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2022-06-08", "chronologyIndex": 79, "adminOrderIndex": 46 },
+
+  { "title": "Thor: Love and Thunder", "type": "MOVIE", "universe": "MCU", "releaseDate": "2022-07-08", "chronologyIndex": 80, "adminOrderIndex": 47 },
+
+  { "title": "Ironheart Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2025-06-24", "chronologyIndex": 81, "adminOrderIndex": 48 },
+
+  { "title": "Werewolf by Night", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2022-10-07", "chronologyIndex": 82, "adminOrderIndex": 49 },
+
+  { "title": "The Guardians of the Galaxy Holiday Special", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2022-11-25", "chronologyIndex": 83, "adminOrderIndex": 50 },
+
+  { "title": "Ant-Man and the Wasp: Quantumania", "type": "MOVIE", "universe": "MCU", "releaseDate": "2023-02-17", "chronologyIndex": 84, "adminOrderIndex": 51 },
+
+  { "title": "Guardians of the Galaxy Vol. 3", "type": "MOVIE", "universe": "MCU", "releaseDate": "2023-05-05", "chronologyIndex": 85, "adminOrderIndex": 52 },
+
+  { "title": "Secret Invasion Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2023-06-21", "chronologyIndex": 86, "adminOrderIndex": 53 },
+
+  { "title": "The Marvels", "type": "MOVIE", "universe": "MCU", "releaseDate": "2023-11-10", "chronologyIndex": 87, "adminOrderIndex": 54 },
+
+  { "title": "Loki Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2023-10-05", "chronologyIndex": 88, "adminOrderIndex": 30 },
+
+  { "title": "What If...? Season 2", "type": "SERIES", "universe": "MCU", "releaseDate": "2023-12-22", "chronologyIndex": 89, "adminOrderIndex": 32 },
+
+  { "title": "Deadpool & Wolverine", "type": "MOVIE", "universe": "MCU", "releaseDate": "2024-07-26", "chronologyIndex": 90, "adminOrderIndex": 35 },
+
+  { "title": "Agatha All Along Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2024-09-18", "chronologyIndex": 91, "adminOrderIndex": 55 },
+
+  { "title": "What If...? Season 3", "type": "SERIES", "universe": "MCU", "releaseDate": "2024-12-22", "chronologyIndex": 92, "adminOrderIndex": 33 },
+
+  { "title": "Your Friendly Neighborhood Spider-Man Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2025-01-29", "chronologyIndex": 93, "adminOrderIndex": null },
+
+  { "title": "Daredevil: Born Again Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2025-03-04", "chronologyIndex": 94, "adminOrderIndex": 56 },
+
+  { "title": "Captain America: Brave New World", "type": "MOVIE", "universe": "MCU", "releaseDate": "2025-02-14", "chronologyIndex": 95, "adminOrderIndex": 57 },
+
+  { "title": "Thunderbolts*", "type": "MOVIE", "universe": "MCU", "releaseDate": "2025-05-02", "chronologyIndex": 96, "adminOrderIndex": 58 },
+
+  { "title": "The Fantastic Four: First Steps", "type": "MOVIE", "universe": "MCU", "releaseDate": "2025-07-25", "chronologyIndex": 97, "adminOrderIndex": 59 },
+
+  { "title": "Avengers: Doomsday", "type": "MOVIE", "universe": "MCU", "releaseDate": "2026-12-18", "chronologyIndex": 98, "adminOrderIndex": null },
+
+  { "title": "Avengers: Secret Wars", "type": "MOVIE", "universe": "MCU", "releaseDate": "2027-05-07", "chronologyIndex": 99, "adminOrderIndex": null },
+
+  { "title": "WandaVision (post-credits continuation placeholder)", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2021-01-15", "chronologyIndex": 100, "adminOrderIndex": null },
+
+  { "title": "What If...? (continuation placeholder)", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2021-08-11", "chronologyIndex": 101, "adminOrderIndex": null },
+
+  { "title": "Loki (timeline placeholder)", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2021-06-09", "chronologyIndex": 102, "adminOrderIndex": null },
+
+  { "title": "Spider-Man: Brand New Day", "type": "MOVIE", "universe": "MCU", "releaseDate": "2026-01-01", "chronologyIndex": 103, "adminOrderIndex": null },
+
+  { "title": "Marvel Spotlight (placeholder)", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2026-01-01", "chronologyIndex": 104, "adminOrderIndex": null },
+
+  { "title": "VisionQuest Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2026-01-01", "chronologyIndex": 105, "adminOrderIndex": null },
+
+  { "title": "Spider-Man: Beyond the Spider-Verse", "type": "MOVIE", "universe": "SONY", "releaseDate": "2027-01-01", "chronologyIndex": 106, "adminOrderIndex": null },
+
+  { "title": "Marvel Zombies Season 1", "type": "SERIES", "universe": "MCU", "releaseDate": "2025-01-01", "chronologyIndex": 107, "adminOrderIndex": null },
+
+  { "title": "Armor Wars", "type": "MOVIE", "universe": "MCU", "releaseDate": "2026-01-01", "chronologyIndex": 108, "adminOrderIndex": null },
+
+  { "title": "Blade", "type": "MOVIE", "universe": "MCU", "releaseDate": "2026-01-01", "chronologyIndex": 109, "adminOrderIndex": null },
+
+  { "title": "The Fantastic Four: First Steps (end)", "type": "SPECIAL", "universe": "MCU", "releaseDate": "2025-07-25", "chronologyIndex": 110, "adminOrderIndex": null }
+]
